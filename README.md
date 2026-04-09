@@ -12,7 +12,7 @@ Web Development
 👩‍💻 Tech Stack
 ![Tech Stack](https://skillicons.dev/icons?i=java,python,cpp,html,css,js,git,github,vscode,linux&perline=5)
 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saumyabaranwal2004&layout=compact&theme=radical)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=saumyabaranwal2004&layout=compact&theme=radical)
 🌐 Connect With Me
 
 ⭐ From saumyabaranwal2004
