@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**saumyabaranwal2004/saumyabaranwal2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 I'm Saumya Baranwal
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Student
+💻 Interested in Data Structures, Algorithms, and Software Development
+🚀 Passionate about learning new technologies and building useful projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+Data Structures and Algorithms (DSA)
+Java Programming
+Web Development
+👩‍💻 Tech Stack
+![Tech Stack](https://skillicons.dev/icons?i=java,python,cpp,html,css,js,git,github,vscode,linux&perline=5)
+📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saumyabaranwal2004&layout=compact&theme=radical)
+🌐 Connect With Me
+
+⭐ From saumyabaranwal2004
+
